@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color:#FFF;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+input {
+    width: 50%;
+    margin-top: 50px;
+    margin-bottom: 3px;
+    padding: 1%;
+}
+button {
+    width: 5%;
+    background-color: green;
+    padding: 1%;
+    cursor: pointer;
+}
+h2 {
+    text-align: center;
+}
+img {
+    margin: 1%;
+    width: 31%;
+    height: 250px;
+}
