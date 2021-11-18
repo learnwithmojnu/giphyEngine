@@ -1,7 +1,6 @@
 /* 1. Grab the input 
 =====================
 */
-
 // code for click button
 document.querySelector('button').addEventListener('click', function(){
     var input = document.querySelector('input').value;

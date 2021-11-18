@@ -5,16 +5,22 @@ body {
     margin: 0 auto;
 }
 input {
-    width: 50%;
+    width: 70%;
     margin-top: 50px;
     margin-bottom: 3px;
     padding: 1%;
+    margin-left: 5%;
+    margin-right: 2px;
+    display: inline-block;
 }
 button {
-    width: 5%;
+    width: 10%;
+    color: white;
     background-color: green;
     padding: 1%;
+    margin-left: 2px;
     cursor: pointer;
+    display: inline-block;
 }
 h2 {
     text-align: center;
